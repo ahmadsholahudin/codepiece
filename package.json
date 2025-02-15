@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@types/node": "^18.0.6",
+    "@whiskeysockets/baileys": "^6.7.12",
+    "axios": "^1.7.9",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.47",
+    "node-fetch": "^2.7.0",
+    "openai": "^4.83.0",
+    "pino": "^9.6.0"
+  }
+}
